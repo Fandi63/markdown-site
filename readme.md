@@ -1,7 +1,5 @@
 ![](https://logodownload.org/wp-content/uploads/2019/10/python-logo-1.png)
 
-
-# Python Examples
 Including
 > if statement 
 
